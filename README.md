@@ -22,6 +22,13 @@ This repository contains code for analyzing the Non-Invasive Fetal ECG Thorax1 d
 - Python 3.x
 - Required Python libraries: NumPy, pandas, matplotlib, seaborn, scikit-learn
 
+- ## Result
+
+- Label 42 test result:
+
+![lable_42](https://github.com/DengYaosheng/NonInvasiveFetalECGThorax1/assets/41530023/94258279-689a-4e6a-ae6b-b8f36539420b)
+
+
 ## References
 
 - [Link to the Non-Invasive Fetal ECG Thorax1 dataset](https://example.com/dataset)
@@ -31,10 +38,4 @@ This repository contains code for analyzing the Non-Invasive Fetal ECG Thorax1 d
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
 
-- Special thanks to [contributors' names or organizations] for their valuable contributions or datasets used in this project.
-
----
-
-Please replace the placeholders such as `[contributors' names or organizations]`, `[Link to the Non-Invasive Fetal ECG Thorax1 dataset]`, and `[LICENSE]` with appropriate information specific to your project.
